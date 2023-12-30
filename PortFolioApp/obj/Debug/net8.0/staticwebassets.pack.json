@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\IMG_3709.png",
+      "PackagePath": "staticwebassets\\assets\\images\\IMG_3709.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\avatar-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\icon-app.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-app.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\icon-design.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\icon-dev.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\icon-photo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-1-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-1-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-2-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-2-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-3-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-3-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-4-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-4-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-5-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-5-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo-6-color.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-6-color.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\my-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\my-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\images\\project-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\project-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Rajapriya Sajeev\\source\\repos\\PortFolioApp\\PortFolioApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortFolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortFolioApp.props",
+      "PackagePath": "build\\PortFolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortFolioApp.props",
+      "PackagePath": "buildMultiTargeting\\PortFolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortFolioApp.props",
+      "PackagePath": "buildTransitive\\PortFolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
